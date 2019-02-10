@@ -1,0 +1,8 @@
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "/text/src/*.pot",
+    "translation": "/text/%two_letters_code%/%file_name%.po"
+  }
+]

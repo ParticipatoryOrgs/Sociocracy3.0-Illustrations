@@ -1,0 +1,252 @@
+#
+msgid ""
+msgstr ""
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Understand Pattern"
+msgstr "Understand Pattern"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Proposal for Adaptation"
+msgstr "Proposal for Adaptation"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Understand Context"
+msgstr "Understand Context"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Evaluate and Evolve"
+msgstr "Evaluate and Evolve"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Consent to Adaptation"
+msgstr "Consent to Adaptation"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "Sum up in a brief but comprehensive driver statement."
+msgstr "Sum up in a brief but comprehensive driver statement."
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "What will be the impact of attending to that need?"
+msgstr "What will be the impact of attending to that need?"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid ""
+"What is the effect of this\n"
+" situation on the organization?"
+msgstr ""
+"What is the effect of this\n"
+" situation on the organization?"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid ""
+"What is the \n"
+"current situation?"
+msgstr ""
+"What is the \n"
+"current situation?"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "What is need of the organization in relation to this situation?"
+msgstr "What is need of the organization in relation to this situation?"
+
+#: process.graffle/describe-organizational-drivers:0
+msgid "Describe Organizational Drivers"
+msgstr "Describe Organizational Drivers"
+
+#: process.graffle/driver-mapping:0
+msgid "Primary Driver"
+msgstr "Primary Driver"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Needs"
+msgstr "Identify Needs"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Deliverables"
+msgstr "Identify Deliverables"
+
+#: process.graffle/driver-mapping:0
+msgid "Connect Domains"
+msgstr "Connect Domains"
+
+#: process.graffle/driver-mapping:0
+msgid "What’s missing?"
+msgstr "What’s missing?"
+
+#: process.graffle/driver-mapping:0
+msgid "Form Domains"
+msgstr "Form Domains"
+
+#: process.graffle/driver-mapping:0
+msgid "Populate & Define Domains"
+msgstr "Populate & Define Domains"
+
+#: process.graffle/driver-mapping:0
+msgid "Sort & Prioritize Drivers"
+msgstr "Sort & Prioritize Drivers"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Actors"
+msgstr "Identify Actors"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Pass to appropriate domain"
+msgstr "Pass to appropriate domain"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Describe an Organizational Driver"
+msgstr "Describe an Organizational Driver"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "yes"
+msgstr "yes"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Notice tension"
+msgstr "Notice tension"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Is it in my/our domain?"
+msgstr "Is it in my/our domain?"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Navigate Via Tension…"
+msgstr "Navigate Via Tension…"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "▪"
+msgstr "▪"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "\tdrop it"
+msgstr "\tdrop it"
+
+#: process.graffle/navigate-describe-respond:0
+msgid ""
+"\tevolve organizational structure (role, circle, open domain…)\n"
+"\t"
+msgstr ""
+"\tevolve organizational structure (role, circle, open domain…)\n"
+"\t"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "…and Respond To Organizational Drivers"
+msgstr "…and Respond To Organizational Drivers"
+
+#: process.graffle/navigate-describe-respond:0
+msgid ""
+"\ttake action\n"
+"\t"
+msgstr ""
+"\ttake action\n"
+"\t"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Drop it"
+msgstr "Drop it"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Respond"
+msgstr "Respond"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Understand driver"
+msgstr "Understand driver"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "no"
+msgstr "no"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Decide how to respond"
+msgstr "Decide how to respond"
+
+#: process.graffle/navigate-describe-respond:0
+msgid ""
+"\tcreate or evolve an agreement\n"
+"\t"
+msgstr ""
+"\tcreate or evolve an agreement\n"
+"\t"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Is this an organizational driver?"
+msgstr "Is this an organizational driver?"
+
+#: process.graffle/opening-salaries:0
+msgid "Transition to New Formula"
+msgstr "Transition to New Formula"
+
+#: process.graffle/opening-salaries:0
+msgid "Create/Update Salary Formula"
+msgstr "Create/Update Salary Formula"
+
+#: process.graffle/opening-salaries:0
+msgid "Open Salary"
+msgstr "Open Salary"
+
+#: process.graffle/opening-salaries:0
+msgid "Open Salary "
+msgstr "Open Salary "
+
+#: process.graffle/opening-salaries:0
+msgid "Agree on Salary Formula"
+msgstr "Agree on Salary Formula"
+
+#: process.graffle/opening-salaries:0
+msgid "Consult Those Affected"
+msgstr "Consult Those Affected"
+
+#: process.graffle/opening-salaries:0
+msgid "Fairness-First Approach"
+msgstr "Fairness-First Approach"
+
+#: process.graffle/opening-salaries:0
+msgid "Implement"
+msgstr "Implement"
+
+#: process.graffle/opening-salaries:0
+msgid "Review and Evolve"
+msgstr "Review and Evolve"
+
+#: process.graffle/opening-salaries:0
+msgid "Transparency-First Approach"
+msgstr "Transparency-First Approach"
+
+#: process.graffle/opening-salaries:0
+msgid "Agree on Transition"
+msgstr "Agree on Transition"
+
+#: process.graffle/peer-review:0
+msgid "Collect Improvement Suggestions "
+msgstr "Collect Improvement Suggestions "
+
+#: process.graffle/peer-review:0
+msgid "Invite Contributors"
+msgstr "Invite Contributors"
+
+#: process.graffle/peer-review:0
+msgid "Co-Create Development Plan"
+msgstr "Co-Create Development Plan"
+
+#: process.graffle/peer-review:0
+msgid "Consent to Plan"
+msgstr "Consent to Plan"
+
+#: process.graffle/peer-review:0
+msgid "Present Domain Description and Strategy"
+msgstr "Present Domain Description and Strategy"
+
+#: process.graffle/peer-review:0
+msgid "⟳"
+msgstr "⟳"
+
+#: process.graffle/peer-review:0
+msgid "Collect Appreciations"
+msgstr "Collect Appreciations"

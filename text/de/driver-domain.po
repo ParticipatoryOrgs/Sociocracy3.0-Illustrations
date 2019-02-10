@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /update-2018-06/text/src/driver-domain.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-06-22T17:31:40+0000\n"
+
+#: driver-domain.graffle/domains-in-organizations:0
+msgid "organisation"
+msgstr "Organisation"
+
+#: driver-domain.graffle/domains-in-organizations:0
+msgid "subdomain"
+msgstr "Subdomäne"
+
+#: driver-domain.graffle/domains-in-organizations:0
+msgid "domain A"
+msgstr "Domäne A"
+
+#: driver-domain.graffle/domains-in-organizations:0
+msgid "domain B"
+msgstr "Domäne B"
+
+#: driver-domain.graffle/domains-in-organizations:0
+msgid "domain C"
+msgstr "Domäne C"
+
+#: driver-domain.graffle/driver:0
+msgid "Impact"
+msgstr "Konsequenzen"
+
+#: driver-domain.graffle/driver:0
+msgid "Driver"
+msgstr "Treiber"
+
+#: driver-domain.graffle/driver:0
+msgid "Effect"
+msgstr "Effekt"
+
+#: driver-domain.graffle/driver:0
+msgid "Situation"
+msgstr "Situation"
+
+#: driver-domain.graffle/driver:0
+msgid "Need"
+msgstr "Bedarf"
+
+#: driver-domain.graffle/driver-response:0
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/driver-strategy-agreements-domain:0
+#: driver-domain.graffle/tension-driver-response:0
+msgid "driver"
+msgstr "Treiber"
+
+#: driver-domain.graffle/driver-response:0
+#: driver-domain.graffle/tension-driver-response:0
+msgid "response"
+msgstr "Antwort"
+
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/driver-strategy-agreements-domain:0
+#: driver-domain.graffle/drivers-and-domains:0
+msgid "domain"
+msgstr "Domäne"
+
+#: driver-domain.graffle/driver-response-full:0
+msgid "group"
+msgstr "Gruppe"
+
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/nested-domains:0
+msgid "role"
+msgstr "Rolle"
+
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/driver-strategy-agreements-domain:0
+msgid "agreement"
+msgstr "Vereinbarung"
+
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/nested-domains:0
+msgid "organization"
+msgstr "Organisation"
+
+#: driver-domain.graffle/driver-short:0
+msgid "needs"
+msgstr "Bedarf"
+
+#: driver-domain.graffle/driver-short:0
+msgid "observations, facts"
+msgstr "Beobachtungen, Fakten"
+
+#: driver-domain.graffle/driver-strategy-agreements-domain:0
+msgid "strategy"
+msgstr "Strategie"
+
+#: driver-domain.graffle/drivers-and-domains:0
+msgid "primary driver"
+msgstr "Primärtreiber"
+
+#: driver-domain.graffle/drivers-and-domains:0
+msgid "subdriver"
+msgstr "Subtreiber"
+
+#: driver-domain.graffle/nested-domains:0
+msgid "circle"
+msgstr "Kreis"
+
+#: driver-domain.graffle/nested-domains:0
+msgid "agree- ment"
+msgstr "Verein- barung"
+
+#: driver-domain.graffle/nested-domains:0
+msgid "values"
+msgstr "Werte"
+
+#: driver-domain.graffle/tension-driver-response:0
+msgid "tension"
+msgstr "Spannung"
+

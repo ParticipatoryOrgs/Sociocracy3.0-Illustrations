@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /update-2018-06/text/src/agreements.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-06-22T17:31:40+0000\n"
+
+#: agreements.graffle/consent-decision-making:0
+msgid "Celebrate Agreement"
+msgstr "Erfolg feiern!"
+
+#: agreements.graffle/consent-decision-making:0
+msgid "Brief Response"
+msgstr "(kurze) Reaktion"
+
+#: agreements.graffle/consent-decision-making:0
+msgid "Resolve Objections"
+msgstr "Einwände integrieren"
+
+#: agreements.graffle/consent-decision-making:0
+#: agreements.graffle/proposal-forming:0 agreements.graffle/selection:0
+msgid "⟳"
+msgstr "⟳"
+
+#: agreements.graffle/consent-decision-making:0
+#: agreements.graffle/proposal-forming:0
+msgid "Consent to Driver"
+msgstr "Konsent: Treiber"
+
+#: agreements.graffle/consent-decision-making:0 agreements.graffle/selection:0
+msgid "🎉"
+msgstr "🎉"
+
+#: agreements.graffle/consent-decision-making:0 agreements.graffle/selection:0
+msgid "Check for Objections"
+msgstr "Einwände sammeln"
+
+#: agreements.graffle/consent-decision-making:0
+msgid "(Consider Concerns)"
+msgstr "(Bedenken behandeln)"
+
+#: agreements.graffle/consent-decision-making:0
+msgid "Clarifying Questions"
+msgstr "Fragen zum Vorschlag"
+
+#: agreements.graffle/consent-decision-making:0
+msgid "Present Driver"
+msgstr "Treiber vorstellen"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "(hear reports)"
+msgstr "(Report)"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "drop agreement"
+msgstr "Vereinbarung aufheben"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "follow-up"
+msgstr "Konsequenzen\n"
+"abarbeiten"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "evolve agreement"
+msgstr "Vereinbarung entwickeln"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "review agreement"
+msgstr "Review Vereinbarung"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "review driver"
+msgstr "Treiber überprüfen"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "keep \n"
+"agreement"
+msgstr "Vereinbarung beibehalten"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "preparation"
+msgstr "Vorbereitung"
+
+#: agreements.graffle/proposal-forming:0
+msgid "Design Proposal(s)"
+msgstr "Vorschlag erarbeiten"
+
+#: agreements.graffle/proposal-forming:0
+msgid "Information Gathering Questions"
+msgstr "Informationsfragen beantworten"
+
+#: agreements.graffle/proposal-forming:0
+msgid "Choose Tuners"
+msgstr "Gestalter bestimmen"
+
+#: agreements.graffle/proposal-forming:0
+msgid "Questions about Driver"
+msgstr "Fragen zum Treiber"
+
+#: agreements.graffle/proposal-forming:0
+msgid "Prioritize Considerations"
+msgstr "Aspekte priorisieren"
+
+#: agreements.graffle/proposal-forming:0
+msgid "Record Considerations"
+msgstr "Kriterien und Aspekte"
+
+#: agreements.graffle/resolve-objections:0
+msgid "ask “who can resolve this?”"
+msgstr "“Wer kann den\n"
+"Einwand integrieren?”"
+
+#: agreements.graffle/resolve-objections:0
+msgid "timeboxed dialogue \n"
+"(2 or 3 people)"
+msgstr "Dialog (Timebox!)"
+
+#: agreements.graffle/resolve-objections:0
+msgid "ask member\n"
+" with objection \n"
+"to amend proposal"
+msgstr "Einwandgeber\n"
+"schlägt eine \n"
+"Änderung vor"
+
+#: agreements.graffle/resolve-objections:0
+msgid "Pick the most promising option \n"
+"(repeat until resolved)"
+msgstr "Integriere einen Einwand nach dem anderen. Überlege, welche der Ideen hier für den aktuellen Einwand am Besten helfen könnte:"
+
+#: agreements.graffle/resolve-objections:0
+msgid "co-create a new proposal"
+msgstr "gemeinsam neuen Vorschlag erarbeiten"
+
+#: agreements.graffle/resolve-objections:0
+msgid "individual"
+msgstr "Person"
+
+#: agreements.graffle/resolve-objections:0
+msgid "ask proposal owner\n"
+" to amend proposal"
+msgstr "Vorschlaggeber\n"
+"fragen"
+
+#: agreements.graffle/resolve-objections:0
+msgid "group"
+msgstr "Gruppe"
+
+#: agreements.graffle/resolve-objections:0
+msgid "round: “how would \n"
+"you solve this?”"
+msgstr "Runde: “Wie könnten wir den Einwand integrieren?”"
+
+#: agreements.graffle/resolve-objections:0
+msgid "timeboxed group discussion"
+msgstr "Gruppendiskussion (Timebox!)"
+
+#: agreements.graffle/resolve-objections:0
+msgid "re-work – send back to superset/subset circle"
+msgstr "an höheren/tieferen Kreis delegieren"
+
+#: agreements.graffle/resolve-objections:0
+msgid "Resolve objections\n"
+"one at a time \n"
+msgstr "Einwände integrieren"
+
+#: agreements.graffle/resolve-objections:0
+msgid "form group to review, research, revise"
+msgstr "Temporären Kreis für Review, Recherche und Vorschlag"
+
+#: agreements.graffle/resolve-objections:0
+msgid "drop the proposal"
+msgstr "Vorschlag ablehnen"
+
+#: agreements.graffle/resolve-objections:0
+msgid "facilitator \n"
+"amends proposal"
+msgstr "Moderator\n"
+"macht Vorschlag"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Resolve Objections To Amendment Of Amendment"
+msgstr "Einwände gegen die Ergänzung der Ergänzung integrieren"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Any objections to amendment of amendment?"
+msgstr "Gibt es Einwände gegen die Ergänzung der Ergänzung?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Propose amendment (or defer/start over)"
+msgstr "Ergänzung vorschlagen (oder vertagen/verwerfen)"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Resolve Objections To Amendment"
+msgstr "Einwände gegen Ergänzung integrieren"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "yes"
+msgstr "ja"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "…"
+msgstr "…"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Any more objections to amendment?"
+msgstr "Gibt es weitere Einwände gegen die Ergänzung?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Hear and qualify one objection"
+msgstr "Einen Einwand hören und qualifizieren"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Any objections to amendment?"
+msgstr "Gibt es Einwände gegen die Ergänzung?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Celebrate!"
+msgstr "Feiert!"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "A process for resolving objections"
+msgstr "Eine Möglichkeit, um Einwände zu integrieren."
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Any more objections?"
+msgstr "Gibt es weitere Einwände?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Propose amendment\n"
+"to  amendment"
+msgstr "Ergänzung zur Ergänzung vorschlagen"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "no"
+msgstr "nein"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Hear and qualify  one objection"
+msgstr "Einen Einwand hören und qualifizieren"
+
+#: agreements.graffle/selection:0
+msgid "Information Gathering"
+msgstr "Informationsrunde"
+
+#: agreements.graffle/selection:0
+msgid "Nomination Changes"
+msgstr "Nominierung ändern?"
+
+#: agreements.graffle/selection:0
+msgid "Reasons for Nominations"
+msgstr "Gründe für Nominierungen"
+
+#: agreements.graffle/selection:0
+msgid "Address and Resolve"
+msgstr "Einwände integrieren"
+
+#: agreements.graffle/selection:0
+msgid "Celebrate"
+msgstr "Erfolg feiern!"
+
+#: agreements.graffle/selection:0
+msgid "Record Nominations"
+msgstr "Nominierungen sammeln"
+
+#: agreements.graffle/selection:0
+msgid "Propose a Nominee"
+msgstr "Kandidaten vorschlagen"
+
+#: agreements.graffle/selection:0
+msgid "Present Role Description"
+msgstr "Rollenbeschreibung vorstellen"
+

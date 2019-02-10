@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /update-2018-06/text/src/process.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-06-22T17:31:41+0000\n"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Understand Pattern"
+msgstr "Muster verstehen"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Proposal for Adaptation"
+msgstr "Vorschlag zur Anpassung"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Understand Context"
+msgstr "Kontext verstehen"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Evaluate and Evolve"
+msgstr "Evaluieren und entwickeln"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Consent to Adaptation"
+msgstr "Konsent zur Anpassung"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "Sum up in a brief but comprehensive driver statement."
+msgstr "Zu einer  kurzen aber umfassenden Beschreibung zusammenfassen"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "What will be the impact of attending to that need?"
+msgstr "Was sind die Konsequenzen, wenn dieser Bedarf gedeckt wird?"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "What is the effect of this\n"
+" situation on the organization?"
+msgstr "Welchen Effekt hat die Situation auf die Organisation?"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "What is the \n"
+"current situation?"
+msgstr "Was ist die aktuelle Situation?"
+
+#: process.graffle/describe-organizational-drivers:0
+#: process.graffle/navigate-describe-respond:0
+msgid "What is need of the organization in relation to this situation?"
+msgstr "Was ist der Bedarf der Organisation in dieser Situation?"
+
+#: process.graffle/describe-organizational-drivers:0
+msgid "Describe Organizational Drivers"
+msgstr "Organisationstreiber beschreiben"
+
+#: process.graffle/driver-mapping:0
+msgid "Primary Driver"
+msgstr "Primärtreiber"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Needs"
+msgstr "Bedarf ermitteln"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Deliverables"
+msgstr "Leistungen identifizieren"
+
+#: process.graffle/driver-mapping:0
+msgid "Connect Domains"
+msgstr "Domänen verbinden"
+
+#: process.graffle/driver-mapping:0
+msgid "What’s missing?"
+msgstr "Was fehlt noch?"
+
+#: process.graffle/driver-mapping:0
+msgid "Form Domains"
+msgstr "Domänen bilden"
+
+#: process.graffle/driver-mapping:0
+msgid "Populate & Define Domains"
+msgstr "Domänen besetzen und definieren"
+
+#: process.graffle/driver-mapping:0
+msgid "Sort & Prioritize Drivers"
+msgstr "Treiber sortieren & priorisieren"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Actors"
+msgstr "Aktuere identifizieren"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Pass to appropriate domain"
+msgstr "An andere Domäne übergeben\n"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Describe an Organizational Driver"
+msgstr "Einen Organisationstreiber beschreiben"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "yes"
+msgstr "ja"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Notice tension"
+msgstr "Spannung erkennen"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Is it in my/our domain?"
+msgstr "Fällt der Treiber in diese Domäne?"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Navigate Via Tension…"
+msgstr "Navigiere nach Spannung…"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "▪"
+msgstr "▪"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "\tdrop it"
+msgstr "\tignorieren"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "\tevolve organizational structure (role, circle, open domain…)\n"
+"\t"
+msgstr "\tOrganisationsstruktur entwickeln (Rollen, Kreise, Offene Domänen…)\n"
+"\t"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "…and Respond To Organizational Drivers"
+msgstr "…und reagiere auf Organisationstreiber"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "\ttake action\n"
+"\t"
+msgstr "\thandeln\n"
+"\t"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Drop it"
+msgstr "ignorieren"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Understand driver"
+msgstr "Treiber verstehen"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "no"
+msgstr "nein"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Decide how to respond"
+msgstr "Entscheide, was getan werden soll"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "\tcreate or evolve an agreement\n"
+"\t"
+msgstr "\teine Vereinbarung treffen oder entwickeln\n"
+"\t"
+
+#: process.graffle/navigate-describe-respond:0
+msgid "Is this an organizational driver?"
+msgstr "Ist es ein Organisationstreiber?"
+
+#: process.graffle/opening-salaries:0
+msgid "Transition to New Formula"
+msgstr "Umstellung auf neue Formel"
+
+#: process.graffle/opening-salaries:0
+msgid "Create/Update Salary Formula"
+msgstr "Gehaltsformel erarbeiten"
+
+#: process.graffle/opening-salaries:0
+msgid "Open Salary"
+msgstr "Transparente Gehälter"
+
+#: process.graffle/opening-salaries:0
+msgid "Open Salary "
+msgstr "Transparente Gehälter"
+
+#: process.graffle/opening-salaries:0
+msgid "Agree on Salary Formula"
+msgstr "Gehaltsformel vereinbaren"
+
+#: process.graffle/opening-salaries:0
+msgid "Consult Those Affected"
+msgstr "Betroffene konsultieren"
+
+#: process.graffle/opening-salaries:0
+msgid "Fairness-First Approach"
+msgstr "Fairness-First-Ansatz"
+
+#: process.graffle/opening-salaries:0
+msgid "Implement"
+msgstr "Umsetzen"
+
+#: process.graffle/opening-salaries:0
+msgid "Review and Evolve"
+msgstr "Evaluation und Evolution"
+
+#: process.graffle/opening-salaries:0
+msgid "Transparency-First Approach"
+msgstr "Transparency-First-Ansatz"
+
+#: process.graffle/opening-salaries:0
+msgid "Agree on Transition"
+msgstr "Übergang vereinbaren"
+
+#: process.graffle/peer-review:0
+msgid "Collect Improvement Suggestions "
+msgstr "Verbesserungsvorschläge sammeln "
+
+#: process.graffle/peer-review:0
+msgid "Invite Contributors"
+msgstr "Teilnehmer einladen"
+
+#: process.graffle/peer-review:0
+msgid "Co-Create Development Plan"
+msgstr "Entwicklungsplan erarbeiten"
+
+#: process.graffle/peer-review:0
+msgid "Consent to Plan"
+msgstr "Entwicklungsplan beschliessen"
+
+#: process.graffle/peer-review:0
+msgid "Present Domain Description and Strategy"
+msgstr "Domäne und Strategie vorstellen"
+
+#: process.graffle/peer-review:0
+msgid "⟳"
+msgstr "⟳"
+
+#: process.graffle/peer-review:0
+msgid "Collect Appreciations"
+msgstr "Würdigungen"
+

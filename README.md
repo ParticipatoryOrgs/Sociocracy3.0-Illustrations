@@ -1,11 +1,13 @@
-# s3-illustrations
+# The Sociocracy 3.0 Illustration Repository
 
-A package with illustrations for Sociocracy 3.0 Patterns.
+This package contains 130 illustrations for [Sociocracy 3.0](https://sociocracy30.org) (a.k.a. S3), created for S3 resources like *[S3 - A Practical Guide](https://sociocracy30.org/guide)* and the S3 website.
 
-This package contains most of the illustrations I have created for Sociocracy 3.0 (a.k.a. S3). 
+Go to the [project's GitHub page](https://illustrations.sociocracy30.org) to download or browse the illustrations.
 
-For the moment, the illustrations are available as png files with 140dpi, both with white and transparent backgrounds. 
+Illustrations are available as PNG files with 140 dpi, both with white and transparent backgrounds. Currently there is English and German versions of each illustration, French and Hebrew versions coming soon. If you want to contribute to translating the illustrations into your language, please visit <https://sociocracy30.org/translations/> 
 
+
+This project is maintained by [Bernhard Bockelbrink](https://evolving-collaboration/about-me/).
 
 ## License 
 

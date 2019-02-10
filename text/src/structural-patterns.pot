@@ -1,0 +1,132 @@
+#
+msgid ""
+msgstr ""
+
+#: structural-patterns.graffle/circles-and-links:0
+msgid "circle"
+msgstr "circle"
+
+#: structural-patterns.graffle/circles-and-links:0
+msgid "link"
+msgstr "link"
+
+#: structural-patterns.graffle/circles-and-links:0
+msgid "double-link"
+msgstr "double-link"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "2nd tier"
+msgstr "2nd tier"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "cross-functional\n"
+msgstr "cross-functional\n"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "function  A"
+msgstr "function  A"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "function B"
+msgstr "function B"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "function C"
+msgstr "function C"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "function A"
+msgstr "function A"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "function D"
+msgstr "function D"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "1st tier"
+msgstr "1st tier"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "delegate circle for \n"
+msgstr "delegate circle for \n"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "a constituent"
+msgstr "a constituent"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "3rd tier"
+msgstr "3rd tier"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "delegate circle"
+msgstr "delegate circle"
+
+#: structural-patterns.graffle/helping-team:0
+msgid "helping team"
+msgstr "helping team"
+
+#: structural-patterns.graffle/helping-team:0
+#: structural-patterns.graffle/open-domain:0
+msgid "delegator"
+msgstr "delegator"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid ""
+"service \n"
+"organization"
+msgstr ""
+"service \n"
+"organization"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid ""
+"peach\n"
+"organization"
+msgstr ""
+"peach\n"
+"organization"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid ""
+"double-linked \n"
+"hierarchy"
+msgstr ""
+"double-linked \n"
+"hierarchy"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid "fractal organization"
+msgstr "fractal organization"
+
+#: structural-patterns.graffle/open-domain:0
+msgid "open domain"
+msgstr "open domain"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid ""
+"… service organization’s \n"
+"perspective"
+msgstr ""
+"… service organization’s \n"
+"perspective"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid "parent organization"
+msgstr "parent organization"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid "service organization"
+msgstr "service organization"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid ""
+"… parent organization’s\n"
+"perspective"
+msgstr ""
+"… parent organization’s\n"
+"perspective"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid "steward"
+msgstr "steward"
